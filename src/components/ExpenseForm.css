@@ -1,0 +1,32 @@
+input[type=text]{
+    margin: 10px;
+    padding: 10px 16px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+input[type=date]{
+    margin: 10px;
+    padding: 10px 16px;
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.expense-btn{
+    padding: 10px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    margin:10px;
+    background-color: #3a3a3a;
+    border-radius: 5px;
+    color: #fff;
+
+}
+
+.expense-outdiv{
+    display: flex;
+    justify-content: center;
+    margin-top: 10vh;
+}
